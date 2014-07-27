@@ -9,18 +9,15 @@
     <version>0.1.0</version>
 
     <dependencies>
-
         <dependency>
             <groupId>com.dyuproject.protostuff</groupId>
             <artifactId>protostuff-runtime</artifactId>
             <version>${protostuff.version}</version>
-            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>com.dyuproject.protostuff</groupId>
             <artifactId>protostuff-core</artifactId>
             <version>${protostuff.version}</version>
-            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>javax.ws.rs</groupId>
